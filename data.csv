@@ -1,0 +1,3 @@
+﻿student_ID,student_Name,student_College,student_Email,student_Batch,student_Placement_Status,student_DSA_Score,student_Webd_Score,student_React_Score,interview_Date,interview_Company,interview_Result
+"63f7349c368732a0744974e9","Khushbu verma","KIOT","t1@gmail.com","cse","Not placed",2,3,5,"NA","NA","NA"
+"64071c5834808808a6f06189","captain","ABCD","coding@ninjas","March 2023","Not placed",100,98,98,"2023-03-01","Coding Ninjas","PASS"
