@@ -12,7 +12,7 @@ A web app where user can create account, manage students, schedule and allocate 
  * Fork the project by clicking Fork Button.
  * Clone the forked repository in your local system by running following the command in code editor terminal (e.g. VS code)
  ```
- git clone git@github.com:prashantsingh896/placement-cell.git
+https://github.com/vermakhushbu723/Placement-Cell.git
  ```
  * run the command `npm install` in terminal to install all dependencies
  * run the command `node index` in terminal to start the server on port 8000
